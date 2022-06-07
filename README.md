@@ -1,4 +1,14 @@
 # Gerente-
+
+(PORTFOLIO) APP to control good sanitary practices in small agro-industry.
+
+I wrote this APP in 2018 for a Brazilian startup.
+Unfortunately the project didn't work, so I'm publishing it in open source as a portfolio of my work.
+This is an unpublished version, it may contain bugs and inconsistencies and is not guaranteed to work.
+The intention is just institutional to demonstrate my skills with SWIFT and XCODE.
+The APP basically explore the TABLE and PICKER functions, I hope it helps beginner programmers.
+
+
 (PORTFOLIO) APP para controle de boas praticas sanitárias em pequenas agroindustria.
 
 Escrevi esse APP em 2018 para uma startup brasileira. 
