@@ -1,0 +1,26 @@
+PODS:
+  - PDFGenerator (3.1.0)
+  - SQLite.swift (0.11.6):
+    - SQLite.swift/standard (= 0.11.6)
+  - SQLite.swift/standard (0.11.6)
+  - Zip (1.1.0)
+
+DEPENDENCIES:
+  - PDFGenerator (~> 3.1)
+  - SQLite.swift (~> 0.11.6)
+  - Zip (~> 1.1)
+
+SPEC REPOS:
+  trunk:
+    - PDFGenerator
+    - SQLite.swift
+    - Zip
+
+SPEC CHECKSUMS:
+  PDFGenerator: 17d6bc525db0a3fcd156fbf00f9d1b8d5cc75d1e
+  SQLite.swift: 46d890be8601964454bd3392527f863d1b802d45
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+
+PODFILE CHECKSUM: 8c13259b62eec2df8ebba8221b18211e316ed35c
+
+COCOAPODS: 1.8.4
